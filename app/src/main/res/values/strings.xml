@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyTemperatureConverter</string>
+    <string name="app_title">Temperature Converter</string>
+    <string name="thermometer_logo">thermometer_logo</string>
+    <string name="celcius">Celcius (°C)</string>
+    <string name="celcius_thermometer">celcius_thermometer</string>
+    <string name="fahrenheit_thermometer">fahrenheit_thermometer</string>
+    <string name="fahrenheit">Fahrenheit (°F)</string>
+    <string name="arrows">arrows</string>
+    <string name="convert">Convert</string>
+    <string name="reset">Reset</string>
+    <string name="round_up_value">Round-up value?</string>
+</resources>
